@@ -13,13 +13,13 @@ public class Prestamo {
         
     }
     public void nombre(){
-        System.out.println("Nombre:Gabro");
+        System.out.println("Nombre:Gabriel");
     }
     public void autor(){
         System.out.println("Autor:Gabro");
 }
     public void nombreEditorial(){
-        System.out.println("Nombre de Editorial: ");
+        System.out.println("Nombre de Editorial:Planeta Mexico ");
         
 }
     public void numeroDePaginas(){
