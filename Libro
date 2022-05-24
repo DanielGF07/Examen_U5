@@ -1,0 +1,12 @@
+/*
+    1.- Agregar metodo que muestre el titulo del libro.
+    2.- Agregar metodo que muestre el numero de paginas del libro.
+    3.- Agregar metodo que muestre el nombre de la editorial.
+
+/**
+ *
+ * @author invitado
+ */
+public interface Libro {
+    
+}
