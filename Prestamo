@@ -1,0 +1,35 @@
+/*
+  1.- Establecer los argumentos para:
+     titulo,nombre autor, nombre editorial, numero de paginas, nacionalidad del autor, genero literario, 
+
+/**
+ *
+ * @author invitado
+ */
+public class Prestamo {
+     
+    public void titulo(){
+        System.out.println("Titulo: Cien años");
+        
+    }
+    public void nombre(){
+        System.out.println("Nombre:Gabro");
+    }
+    public void autor(){
+        System.out.println("Autor:Gabro");
+}
+    public void nombreEditorial(){
+        System.out.println("Nombre de Editorial: ");
+        
+}
+    public void numeroDePaginas(){
+        System.out.println("ANumero de Paginas:288");
+    
+}
+    public void nacionalidadDelAutor(){
+        System.out.println("Nacionalidad Del Autor:Mexicana");
+}
+    public void generoLiterario(){
+        System.out.println("Genero Literario: ");
+}
+}
