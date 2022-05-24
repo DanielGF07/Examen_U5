@@ -1,0 +1,21 @@
+/*
+Nota: considere encapsular, se considera como extra todo aquel codigo funcional que usted integra al programa y que no haya sido solicitado en este examen
+      pero que si fue visto en practicas clase.
+
+/**
+ *
+ * @author invitado
+ */
+public class Exa_U5 {
+
+    /**
+     * @param args the command line arguments
+     */
+    public static void main(String[] args) {
+        // TODO code application logic here
+           Prestamo datos = new Prestamo();
+        datos.titulo();
+        datos.nombre();
+    }
+    
+    }
