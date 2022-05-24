@@ -1,0 +1,13 @@
+/*
+    1.- Agregar metodo que describa la nacionalidad del autor.
+    2.- Agregar metodo que muestre la edad del autor.
+ */
+
+/**
+ *
+ * @author invitado
+ */
+public interface Autor {
+    public void nombre();
+    
+}
